@@ -1,0 +1,21 @@
+html,
+body,
+#viewDiv {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+}
+
+#searchbox {
+  z-index: 99;
+  position: absolute;
+  top: 15px;
+  right: 10px;
+  padding: 5px;
+  margin-left: 0px;
+  height: 40px;
+  width: 224px;
+  background: rgba(25, 25, 25, 0.8);
+  color: white;
+}
